@@ -1,2 +1,1 @@
-# python-nodejs-base-image
-A base image for python and nodejs applications.
+A docker file for the creation of a base image for python 3.5 and node 6.x applications.
