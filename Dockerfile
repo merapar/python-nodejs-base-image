@@ -1,5 +1,5 @@
 #
-# Docker file for the creation of a base image for python 3.5 and node 6.x applications.
+# Docker file for the creation of a base image for running python 3.5 and node 6.x applications.
 #
 FROM    python:3.5.2-slim
 
