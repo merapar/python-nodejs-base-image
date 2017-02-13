@@ -1,7 +1,7 @@
 #
 # Docker file for the creation of a base image for running python 3.5 and node 6.x applications.
 #
-FROM    python:3.5.2-slim
+FROM    python:3.5.3-slim
 
 MAINTAINER Merapar
 
